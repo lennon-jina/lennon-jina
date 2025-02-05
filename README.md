@@ -1,7 +1,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"</p>
 
-<h1 align="center"> 👋 HI 👋 </h1>
-<h2 align="center">I'm Kanye west</h2>
+<h2 align="center">HI <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> I'm Kanye west</h2>
 <h3 align="center">🐥 the journey to becoming a developer 💨
 <br><br><br><br>
 
