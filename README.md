@@ -2,6 +2,8 @@
 
 <h2 align="center">𝑯𝑰 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> 𝑰'𝒎 𝑲𝒂𝒏𝒚𝒆 𝒘𝒆𝒔𝒕</h2>
 <h3 align="center">🐥 𝒕𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈 𝒂 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💨
+<br><br><br>
+<p font-color="red">*̩̩͙˚̩̥̩̥*̩̩̥͙✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·͙⋆⁺₊⋆ ☾⋆⁺₊⋆*̩̩͙˚̩̥̩̥*̩̩̥͙✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧·͙*̩̩͙˚̩̥̩̥*̩̩̥͙</p>
 <br><br><br><br>
 
 🏊‍♂️ Weekly Development Breakdown
