@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"</p>
 
-<h2 align="center">HI <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> I'm Kanye west</h2>
-<h3 align="center">🐥 the journey to becoming a developer 💨
+<h2 align="center">𝑯𝑰 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> 𝑰'𝒎 𝑲𝒂𝒏𝒚𝒆 𝒘𝒆𝒔𝒕</h2>
+<h3 align="center">🐥 𝒕𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈 𝒂 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💨
 <br><br><br><br>
 
 🏊‍♂️ Weekly Development Breakdown
