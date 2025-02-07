@@ -7,7 +7,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io](https://github.com/lennon-jina/lennon-jina">
+<a href="https://github.com/lennon-jina/lennon-jina">
 <strong>Visit my personal website </strong>
 <br />
 <br />
