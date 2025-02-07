@@ -1,22 +1,56 @@
-## 📅 2025-02-05
-### 👀 무엇을 했나요?
-- JAVA - 버블 정렬, 영화 퀴즈, 타자 게임
+<p align="center"><img width=600px height=400px src="https://media.tenor.com/o85TZZWORzMAAAAM/kanye-laughing.gif"</p>
 
-### 💡 새로 알게 된 내용
-- static은 종속되지 않음
-- 깃허브 vs code, 이클립스 연동하는 방법법
+<h2 align="center">𝑯𝑰 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> 𝑰'𝒎 𝑲𝒂𝒏𝒚𝒆 𝒘𝒆𝒔𝒕</h2>
+<h3 align="center">🐥 𝒕𝒉𝒆 𝒋𝒐𝒖𝒓𝒏𝒆𝒚 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒊𝒏𝒈 𝒂 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💨
+<br><br><br><br><br>
 
-### 😥 아쉬운 점
-- 수면 부족으로 인한 컨디션 난조
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/lennon-jina/lennon-jina">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
 
-### 💬 회고
-- 잠 못 잤지만 그래도 평소보다 안 졸았다 굿잡
+<p>
 
-### ❗ TO DO LIST
->- 개인 프로젝트 구성 짜기 (진행중)
->- 클래스룸 과제 (~2/10) (진행중)
->- 학점은행제 알아보기 (진행중)
-- 자바 chapter05 복습
-- 자바 스크립트 복습
-- velog 개설
-- 퀴즈 관련 어플/사이트 찾아보기
+<img alt="Globe" height="90" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=ofaRvNOV4SI">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br><br><br>
+
+🏊‍♂️ Weekly Development Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+</picture>
+
+<br><br>
+👊 My Stats
+
+<p align="center">
+  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+</p>
